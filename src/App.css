@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,44 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.sm2{
+  text-decoration: none;
+  list-style: none;
+  color: black;
+  font-size: 13.5px;
+}
+
+#sm22{
+  text-decoration: none;
+  list-style: none;
+  color: black;
+  text-align: end !important;
+  font-size: 13.5px;
+}
+
+@media   (max-width:414px) and (min-width:200px) {
+  #abcd{
+    display: flex !important;
+    background-color: blue !important;
+  }
+
+  
+}
+
+@media   (max-width:414px) and (min-width:200px) {
+  #abcd{
+    display: flex !important;
+    background-color: blue !important;
+  }
+
+  
+}
+@media   (max-width:600px) and (min-width:200px) {
+  #xyz1{
+    display: flex !important;
+    
+  }
+
+  
 }
